@@ -4,6 +4,8 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
+//hi luffy
+
 public class FileUtility {
 	
 	public String getDataFromPropertiesFile(String key) throws IOException
